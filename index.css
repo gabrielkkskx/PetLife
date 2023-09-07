@@ -131,6 +131,7 @@ h2 {
   height: 0;
   opacity: 0;
   overflow: hidden;
+  transition: .3s;
 }
 
 .duvida.ativa .paragrafo{
